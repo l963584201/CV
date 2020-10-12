@@ -10,7 +10,7 @@ photo: "" #照片可空，不显示
 #联系方式
 contact: #联系方式连接等3~5行
 - text: "963584201@qq.com" #文本内容
-  href: 'mail.qq.com #链接，无链接则空  
+  href: 'mail.qq.com' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
 - text: "18111043563"
   href: 'tel:18111043563'
