@@ -34,21 +34,25 @@ main: #简历主要内容，
     duration: "2016年9月 - 2019年"
 #     sub: 地点或学历
 #     detail: 计算机网络技术
-#   - title: Your University
-#     duration: Aug 2007 - Jun 2011
-#     sub: Ut enim ad minim veniam
-#     detail: Master Bachelor of Computer Science & Technology.
+
 
 - type: skills
   name: "个人技能"
   content:
-  - title: 编程语言
+  - title: 1.前端工程化：
     items: #itmems 可以小块的方式显示
-    - HTML
-    - CSS
-    - JS
-#   - title: Skill Group
-#     summary: Consectetur, Adipiscing, Elit
+    - 1.1 熟悉Vue的使⽤，了解Vue的部分原理 ， 了解VueRouter和VueX
+    - 1.2 了解前端性能优化，熟练使⽤DevTools进⾏开发和调试
+    - 1.3 了解Webpack的原理，了解前端化⼯具
+    - 1.4 具备基本的Web安全知识（SQL注⼊ / XSS / CSRF / CSP 等）
+    - 1.5 会使⽤Element UI，bootstrap
+    - 1.6 熟悉组件化和模块化的开发模式
+  - title: 2. HTML / CSS / JS
+    - 2.1 熟悉ES6的特性，包括但不限于新的语法糖，类与对象、Promise ,await / async 等
+    - 2.2 熟悉原⽣JavaScript ,理解原型，闭包，⾼阶，异步等概念
+    - 2.3 通读《CSS权威指南》, 《Eloquent JavaScript》, 《The Book Of CSS3》
+    - 2.4 熟练掌握⾏内 , 块级 , 浮动 , 定位 , flex 布局
+    - 2.5 熟练掌握CSS3的渐变 ， 动画 ， 2D/3D变幻等特性
 
 # - type: experience
 #   name: 经验
@@ -62,13 +66,6 @@ main: #简历主要内容，
 #     detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
     # open: open
     #可以设置open默认展开
-#   - title: Job Title
-#     sub: Your 2nd, Inc.  
-#     duration: Apr 2013 - Mar 2016
-#     tags: 
-#     - tagname
-#     summary: Summary your job or work. (Collapse)
-#     detail: Details can be collapsed in Chrome Safari, Firefox, Opera and so on. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 - type: projects
   name: 项目经验
@@ -89,7 +86,6 @@ others: #其他列表显示
 - type: others #ID可以为空
   name: '自我评价'
   content: #选择需要的格式
-  - title: ""
   - 本人为人诚恳，思想积极向上，积极进取，有较强的团队精神。在校期间所学知识较为局限,我不满足与现有的知识水平,目前最缺乏的是实践工作经验，我期望在实践中得到锻炼和提高,我渴望能够加入贵公司.我会踏踏实实地做好属于自己的每一份工作,竭尽全力做好本职工作，在工作中取得好的成绩.我相信经过自己的勤奋和努力,一定会做出应有的贡献，决不辜负领导对自己的期望，有一份工作，我也会珍惜来之不易的工作。
    
 #- type: 
