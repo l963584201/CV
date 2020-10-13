@@ -35,7 +35,6 @@ main: #简历主要内容，
 #     sub: 地点或学历
 #     detail: 计算机网络技术
 
-
 - type: skills
   name: "个人技能"
   content:
@@ -54,7 +53,7 @@ main: #简历主要内容，
     - 2.3 通读《CSS权威指南》, 《Eloquent JavaScript》, 《The Book Of CSS3》
     - 2.4 熟练掌握⾏内 , 块级 , 浮动 , 定位 , flex 布局
     - 2.5 熟练掌握CSS3的渐变 ， 动画 ， 2D/3D变幻等特性
-   - title: 3.计算机基础
+  - title: 3.计算机基础
      items: #itmems 可以小块的方式显示
    - 3.1 熟悉基本的数据结构和算法 (Leetcode — 200题）
    - 3.2 了解计算机⽹络的基本原理和分层模型
