@@ -48,6 +48,7 @@ main: #简历主要内容，
     - 1.5 会使⽤Element UI，bootstrap
     - 1.6 熟悉组件化和模块化的开发模式
   - title: 2.HTML/CSS/JS
+    items: #itmems 可以小块的方式显示
     - 2.1 熟悉ES6的特性，包括但不限于新的语法糖，类与对象、Promise ,await / async 等
     - 2.2 熟悉原⽣JavaScript ,理解原型，闭包，⾼阶，异步等概念
     - 2.3 通读《CSS权威指南》, 《Eloquent JavaScript》, 《The Book Of CSS3》
