@@ -68,13 +68,13 @@ main: #简历主要内容，
     # open: open
     #可以设置open默认展开
 
-- type: projects
-  name: 项目经验
-  content:
-  - title: 项目名称
-    duration: xxxx年xx月 - yyyy年yy月
-    detail: 项目和工作介绍，项目总结.
-    sub: 维护者
+# - type: projects
+#   name: 项目经验
+#   content:
+#   - title: 项目名称
+#     duration: xxxx年xx月 - yyyy年yy月
+#     detail: 项目和工作介绍，项目总结.
+#     sub: 维护者
 #   - title: Project Name
 #     summary: Projects' introduction or summary
 #     detail:
