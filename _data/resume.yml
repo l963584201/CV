@@ -1,7 +1,7 @@
 # 数据格式可以为 yaml(文件以.yml结尾) 或者json(文件以.json结尾)
 # 如果YAML格式的数据请先检查格式是否有误，可选检查工具 http://www.yamllint.com
 
-title: 个人简历
+  title: “个人简历”
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "聂文俊"
 age: "24岁"
@@ -32,12 +32,12 @@ main: #简历主要内容，
   name: 教育背景 #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
   - title: 四川托普信息技术学院
-duration: "2016年9月 - 2019年"
+duration: "2016年9月 - 2019年7月"
 sub: 大专
 detail: 计算机网络技术
 
 - type: skills
-  name: "个人技能"
+  name: “个人技能”
   content:
   - title: 1.计算机基础
     items: #itmems 可以小块的方式显示
@@ -50,12 +50,12 @@ detail: 计算机网络技术
     - 2.2 熟悉原⽣JavaScript ,理解原型，闭包，⾼阶，异步等概念
     - 2.3 熟练掌握⾏内 , 块级 , 浮动 , 定位 , flex 布局
     - 2.4 熟练掌握CSS3的渐变 ， 动画 ， 2D/3D变幻等特性
-  - title: 3.前端工程化
-    items: #itmems 可以小块的方式显示
-    - 3.1 熟悉Vue的使⽤，了解Vue的部分原理 ， 了解VueRouter和VueX
-    - 3.2 了解Webpack的原理，了解前端化⼯具
-    - 3.3 具备基本的Web安全知识（SQL注⼊ / XSS / CSRF / CSP 等）
-    - 3.4 熟悉组件化和模块化的开发模式
+#   - title: 3.前端工程化
+#     items: #itmems 可以小块的方式显示
+#     - 3.1 熟悉Vue的使⽤，了解Vue的部分原理 ， 了解VueRouter和VueX
+#     - 3.2 了解Webpack的原理，了解前端化⼯具
+#     - 3.3 具备基本的Web安全知识（SQL注⼊ / XSS / CSRF / CSP 等）
+#     - 3.4 熟悉组件化和模块化的开发模式
     
 - type: experience
   name: 经验
