@@ -37,7 +37,7 @@ main: #简历主要内容，
     detail: 计算机网络技术
 
 - type: skills
-  name: “个人技能”
+  name: 个人技能
   content:
   - title: 1.计算机基础
     items: #itmems 可以小块的方式显示
