@@ -4,8 +4,8 @@
 title: "个人简历"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "聂文俊"
-age: "24岁"
-jobtitle: "求职意向：资料员" #可空不显示
+age: "26岁"
+jobtitle: "" #可空不显示
 photo: "" #照片可空，不显示
 
 #联系方式
@@ -31,8 +31,8 @@ main: #简历主要内容，
 - type: education #类别为ID
   name: 教育背景 #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
-  - title: 四川托普信息技术学院
-    duration: "2016年9月 - 2019年"
+  - title: 四川托普信息技术职业学院
+    duration: "2016年9月 - 2019年7月"
     sub: 大专
     detail: 计算机网络技术
 
@@ -58,11 +58,11 @@ main: #简历主要内容，
 #     - 3.4 熟悉组件化和模块化的开发模式
     
 - type: experience
-  name: 经验
+  name: 工作经历
   content:
-  - title: 资料员
+  - title: 修图
     sub: 江苏墨轩档案有限公司
-    duration: "2021年3月 - 2022年9月"
+    duration: "2021年3月 - 2022年10月"
     tags:
 #     - 标签
     summary: 数字化档案(自动折叠)
